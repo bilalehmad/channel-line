@@ -1,1 +1,1 @@
-heello to channel 4, explore new direction.
+hello to channel 4, explore new direction in vim
